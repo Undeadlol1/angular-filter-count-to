@@ -6,7 +6,7 @@ This project is an animated counter for Angularjs. The directive counts from one
 ## Install via bower
 
 ```
-$ bower install angular-filter-count-to
+$ meteor add undeadlol1:angular-filter-count-to
 ```
 
 ## How to use angular count-to
